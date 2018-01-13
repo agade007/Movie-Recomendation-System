@@ -1,7 +1,7 @@
 # movie-recomendation-system
 Main aim is to generate movie recommendations for a user, given the movie they already watched and the respective rating they gave for those movies. I used Pandas library for most of data preparation and analysis and approached this problem in the following steps: <br>
  <ul> • Data aggregation and preparation which includes cleaning and sorting. </ul>
-  <ul>• Analysis  oFinding similarity between two users. </ul>
+  <ul>• Finding similarity between two users. </ul>
   
  Finding Top N recommendations for the active users. 
  
